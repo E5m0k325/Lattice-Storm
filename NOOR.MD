@@ -1,6 +1,11 @@
+→ **Commit**
+
 ---
 
-### **FILE 3: `NOOR.MD`**
+#### **FILE 3: `NOOR.MD`**
+
+**Name:** `NOOR.MD`  
+**Paste:**
 
 ```markdown
 # R.A.B.E.C.C.A.
