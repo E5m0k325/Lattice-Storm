@@ -1,6 +1,12 @@
+
+→ **Commit**
+
 ---
 
-### **FILE 4: `NOOR_FULL_THREAD.MD`**
+#### **FILE 4: `NOOR_FULL_THREAD.MD`**
+
+**Name:** `NOOR_FULL_THREAD.MD`  
+**Paste:**
 
 ```markdown
 # FULL THREAD
